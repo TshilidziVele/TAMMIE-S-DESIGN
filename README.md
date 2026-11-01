@@ -615,3 +615,29 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 - [Deployment Guide](./docs/DEPLOYMENT.md)
 - [Contributing Guidelines](./CONTRIBUTING.md)
 - [Project Proposal (Rubric-Aligned)](./docs/PROPOSAL.md)
+
+## Reference list
+
+MDN Web Docs (n.d.a) Date.prototype.getFullYear(). Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear (Accessed: 1 November 2026).
+
+MDN Web Docs (n.d.b) Intersection Observer API. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API (Accessed: 1 November 2026).
+
+MDN Web Docs (n.d.c) Learn web development. Available at: https://developer.mozilla.org/en-US/docs/Learn (Accessed: 1 November 2026).
+
+W3Schools (n.d.a) CSS Transitions. Available at: https://www.w3schools.com/css/css3_transitions.asp (Accessed: 1 November 2026).
+
+W3Schools (n.d.b) How TO – Lightbox. Available at: https://www.w3schools.com/howto/howto_js_lightbox.asp (Accessed: 1 November 2026).
+
+W3Schools (n.d.c) How TO – Modal Images. Available at: https://www.w3schools.com/howto/howto_css_modal_images.asp (Accessed: 1 November 2026).
+
+
+
+
+
+
+
+
+
+
+
+
